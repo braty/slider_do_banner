@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the slider banner feature.
+ */
+
+include_once 'slider_banner.features.inc';
